@@ -14,6 +14,7 @@ function App() {
         <h1>Loading...</h1>
       </div>
     )
+    
   }
   return (
     <main>
